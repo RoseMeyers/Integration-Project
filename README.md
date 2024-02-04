@@ -1,0 +1,1 @@
+This repository contains "Integration Project for COP1500," a comprehensive Python program showcasing everything I've learned about programming and Python during intro to computer science course. Authored by Rose Meyers, this project is designed as an educational tool to test and improve your math skills in a fun and interactive way!
